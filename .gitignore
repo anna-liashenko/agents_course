@@ -1,0 +1,50 @@
+# Environment and API Keys - NEVER COMMIT THESE!
+.env
+*.key
+*.pem
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Cache and temporary files
+cache/
+*.log
+*.tmp
+
+# Generated lesson plans and traces (user data)
+*.json
+!requirements.json
+Урок_*.txt
+Урок_*.docx
+lesson_plan_*.txt
+lesson_plan_*.docx
+traces_*.json
+session_*.json
+memory_bank.json
+
+# Test files archive
+archive_tests/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Documentation builds
+docs/_build/
