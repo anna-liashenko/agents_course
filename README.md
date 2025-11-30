@@ -253,17 +253,17 @@ standards_result, learning_strategies = await asyncio.gather(
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/anna-liashenko/agents_course/
 cd agents_course
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Configure API key
-cp .env.example .env
-# Edit .env and add your API key:
-# GOOGLE_API_KEY=your_actual_key_here
-```
+# Create a .env file in the project root, then edit .env and replace your_api_key_here with your actual Google Gemini API key:
+GOOGLE_API_KEY=your_actual_key_here
+DEFAULT_MODEL=gemini-2.0-flash-exp
+LOG_LEVEL=INFO
 
 ### Run Interactive Demo
 
