@@ -81,7 +81,7 @@ If teachers could reduce lesson prep from **10 hours to 1 hour**, they could:
 
 ## 💡 Solution
 
-**Pedagogue AI** is a multi-agent system built with **Google Agent Development Kit (ADK)** that automates lesson plan creation through intelligent agent coordination.
+**Pedagogue AI** is a multi-agent system built with **Google Agent Development Kit (ADK)** that automates lesson plan creation through intelligent agent coordination. The project has been vibe-coded with **Claude Sonnet (Thinking)** in **Google Antigravity**.
 
 ### Value Proposition
 
