@@ -12,29 +12,15 @@ This submission uses **Google ADK (Agent Development Kit)** to create a multi-ag
 ### Step 1: Clone and Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/anna-liashenko/agents_course/
 cd agents_course
 ```
 
-### Step 2: Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Step 3: Configure API Key
+### Step 2: Configure API Key
 
 **🚨 IMPORTANT: Add Your API Key**
 
 Create a `.env` file in the project root:
-
-```bash
-# Windows
-copy .env.example .env
-
-# Linux/Mac
-cp .env.example .env
-```
 
 Then edit `.env` and replace `your_api_key_here` with your actual Google Gemini API key:
 
