@@ -1,0 +1,9 @@
+google-adk
+python-dotenv
+requests
+PyPDF2
+pdfplumber
+python-docx
+structlog
+mcp
+beautifulsoup4
