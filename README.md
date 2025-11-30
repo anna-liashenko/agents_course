@@ -1,6 +1,6 @@
 # Pedagogue AI - Multi-Agent Lesson Planning System
 
-**Google ADK Capstone Project**  
+**Google AI Agents Capstone Project**  
 *AI-Powered Lesson Plan Generation for Ukrainian Teachers*
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
@@ -167,9 +167,9 @@ Each lesson plan includes:
 
 ---
 
-## 🎓 ADK Concepts Demonstrated
+## 🎓 AI Agents Concepts Demonstrated
 
-This project showcases **7+ key ADK concepts** from the course:
+This project showcases **7+ AI Agents concepts from the course using ADK**:
 
 ### 1. **Multi-Agent Coordination** ⭐
 - 5 specialized agents work together on a single task
