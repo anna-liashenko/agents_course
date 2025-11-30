@@ -25,7 +25,7 @@ Create a `.env` file in the project root:
 Then edit `.env` and replace `your_api_key_here` with your actual Google Gemini API key:
 
 ```
-GOOGLE_API_KEY=AIzaSy...your_actual_key_here
+GOOGLE_API_KEY=your_actual_key_here
 DEFAULT_MODEL=gemini-2.0-flash-exp
 LOG_LEVEL=INFO
 ```
