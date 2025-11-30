@@ -16,7 +16,12 @@ git clone https://github.com/anna-liashenko/agents_course/
 cd agents_course
 ```
 
-### Step 2: Configure API Key
+### Step 2: Install dependencies
+```
+pip install -r requirements.txt
+```
+
+### Step 3: Configure API Key
 
 **🚨 IMPORTANT: Add Your API Key**
 
